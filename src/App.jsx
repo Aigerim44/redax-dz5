@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import MainPage from './pages/MainPage'
-import { Navbar } from './pages/Navbar'
+import { Navbar } from './components/Navbar.jsx'
 
 
 function App() {

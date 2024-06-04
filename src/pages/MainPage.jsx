@@ -8,8 +8,7 @@ function MainPage() {
   const dispatch = useDispatch()
   const buyClick = () => {
   dispatch({
-    type: "INCRUISE" ,
-    paylaod:+1  
+    type: "INCRUISE"
   })
   }
 
